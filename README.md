@@ -7,3 +7,5 @@
 - 后端：Spring Boot + JPA + thymeleaf模板
 - 数据库：MySQL
 - 前端UI：Semantic UI框架
+
+项目演示地址：http://www.xc768.cn
